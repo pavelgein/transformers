@@ -331,4 +331,3 @@ class ConvNextV2ModelIntegrationTest(unittest.TestCase):
         with torch.no_grad():
             outputs = model(**inputs)
 
-
